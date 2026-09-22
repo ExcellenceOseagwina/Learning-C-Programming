@@ -1,6 +1,13 @@
-#include <stdio.h>
+// #include <stdio.h>
+// int main(){
+//     printf("Hello World");
+//     return 0;
+// }
 
-int main() {
-    printf("Hello, World!\n");
+#include <stdio.h>
+int main (){
+    printf("Hello World");
+    int n;
+    scanf("%d", &n);
     return 0;
 }
